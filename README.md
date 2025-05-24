@@ -10,7 +10,7 @@ Today I focused on one of the most powerful yet underused features in Excel: Con
 
  - 📊 Applied Data Bars to the Assists column to visualize contribution at a glance
 
- - ⭐ Used Icon Sets to flag high and low Ratings
+ - ⭐ Used Icon Sets to flag trends
 
  - 🔗 Combined Data Bars + Icons for an enhanced visual impact
 
